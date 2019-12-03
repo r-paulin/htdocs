@@ -6,7 +6,7 @@ $art_image = $_FILES['article_image'];
 $art_content = $_POST['article_content'];
 $art_author = $_SESSION['user_id'];
 
-// class Article {
+// class Article { ??? who knows why  
     
 //     public $art_title; 
 //     public $art_image;
